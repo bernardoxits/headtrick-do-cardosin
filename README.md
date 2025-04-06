@@ -68,7 +68,8 @@
 
     btnHead.addEventListener('click', () => {
       msg.style.color = '#4caf50';
-      msg.textContent = 'Headtrick ativado!';
+      msg.textContent = 'Headtr
+        ick ativado!';
     });
 
     btnAim.addEventListener('click', () => {
